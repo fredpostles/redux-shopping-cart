@@ -1,0 +1,12 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+img {
+  width: 200px;
+}
+
+.cartItems_container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
